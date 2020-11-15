@@ -15,7 +15,7 @@ public class CoinScript : MonoBehaviour
     {
 
     }
-    public void OnCollisionEnter(Collision collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("Avvenuta Collisone");
         Destroy(gameObject);
