@@ -50,3 +50,6 @@ TagManager:
   - name: ForeGround
     uniqueID: 277105653
     locked: 0
+  - name: Avanti
+    uniqueID: 765364069
+    locked: 0
